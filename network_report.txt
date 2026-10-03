@@ -1,0 +1,426 @@
+
+Report Time: 2026-09-07 10:31:41
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : google.com
+IP Address     : 142.251.43.46
+Host Status    : Reachable
+Response Time  : 100.05 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21        : CLOSED
+Port 22        : CLOSED
+Port 80        : OPEN
+Port 443       : OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:32:39
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : example.com
+IP Address     : 172.66.147.243
+Host Status    : Reachable
+Response Time  : 197.62 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21        : CLOSED
+Port 22        : CLOSED
+Port 80        : OPEN
+Port 443       : OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:41:27
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : github.com
+IP Address     : 20.207.73.82
+Host Status    : Reachable
+Response Time  : 96.7 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21        : CLOSED
+Port 22        : OPEN
+Port 80        : OPEN
+Port 443       : OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:41:27
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 1
+Online Hosts  : 1
+Offline Hosts : 0
+========================================
+
+Report Time: 2026-09-07 10:42:47
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : w3school.com
+IP Address     : 93.127.191.6
+Host Status    : Reachable
+Response Time  : 308.27 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21        : OPEN
+Port 22        : CLOSED
+Port 80        : OPEN
+Port 443       : OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:42:47
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 1
+Online Hosts  : 1
+Offline Hosts : 0
+========================================
+
+Report Time: 2026-09-07 10:45:48
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : github.com
+IP Address     : 20.207.73.82
+Host Status    : Reachable
+Response Time  : 191.73 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): OPEN
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:45:48
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 1
+Online Hosts  : 1
+Offline Hosts : 0
+========================================
+
+Report Time: 2026-09-07 10:46:30
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : github.com
+IP Address     : 20.207.73.82
+Host Status    : Reachable
+Response Time  : 304.22 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21     (FTP  ): CLOSED
+Port 22     (SSH  ): OPEN
+Port 80     (HTTP ): OPEN
+Port 443    (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:46:30
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 1
+Online Hosts  : 1
+Offline Hosts : 0
+========================================
+
+Report Time: 2026-09-07 10:46:47
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : github.com
+IP Address     : 20.207.73.82
+Host Status    : Reachable
+Response Time  : 191.19 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): OPEN
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:46:47
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 1
+Online Hosts  : 1
+Offline Hosts : 0
+========================================
+
+Report Time: 2026-09-07 10:50:50
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : google.com
+IP Address     : 142.251.220.110
+Host Status    : Reachable
+Response Time  : 98.23 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): CLOSED
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:50:50
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 1
+Online Hosts  : 1
+Offline Hosts : 0
+========================================
+
+Report Time: 2026-09-07 10:51:23
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : google.com
+IP Address     : 142.251.43.46
+Host Status    : Reachable
+Response Time  : 94.27 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): CLOSED
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:51:23
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 1
+Online Hosts  : 1
+Offline Hosts : 0
+========================================
+
+Report Time: 2026-09-07 10:52:10
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : github.com
+IP Address     : 20.207.73.82
+Host Status    : Reachable
+Response Time  : 98.93 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): CLOSED
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:52:10
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 1
+Online Hosts  : 1
+Offline Hosts : 0
+========================================
+
+Report Time: 2026-09-07 10:52:48
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : github.com
+IP Address     : 20.207.73.82
+Host Status    : Reachable
+Response Time  : 150.76 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): OPEN
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:52:51
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : google.com
+IP Address     : 142.251.43.46
+Host Status    : Reachable
+Response Time  : 102.39 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): CLOSED
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:52:53
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : example.com
+IP Address     : 172.66.147.243
+Host Status    : Reachable
+Response Time  : 39.22 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): CLOSED
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:52:53
+abcxyz123456.com: Unable to resolve hostname.
+
+Report Time: 2026-09-07 10:52:54
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 4
+Online Hosts  : 3
+Offline Hosts : 1
+========================================
+
+Report Time: 2026-09-07 10:53:05
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : github.com
+IP Address     : 20.207.73.82
+Host Status    : Reachable
+Response Time  : 373.22 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): OPEN
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:53:08
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : google.com
+IP Address     : 142.251.43.46
+Host Status    : Reachable
+Response Time  : 102.3 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): CLOSED
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:53:10
+
+========================================
+       NETWORK MONITORING REPORT
+========================================
+Hostname       : example.com
+IP Address     : 172.66.147.243
+Host Status    : Reachable
+Response Time  : 373.21 ms
+
+TCP PORT STATUS
+----------------------------------------
+Port 21   (FTP  ): CLOSED
+Port 22   (SSH  ): CLOSED
+Port 80   (HTTP ): OPEN
+Port 443  (HTTPS): OPEN
+----------------------------------------
+Overall Status : ONLINE
+========================================
+
+Report Time: 2026-09-07 10:53:11
+abcxyz123456.com: Unable to resolve hostname.
+
+Report Time: 2026-09-07 10:53:11
+
+========================================
+          MONITORING SUMMARY
+========================================
+Total Hosts   : 4
+Online Hosts  : 3
+Offline Hosts : 1
+========================================
